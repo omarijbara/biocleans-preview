@@ -1,4 +1,5 @@
+# Staging mirror of biocleans.de — not the production site.
+# The live site is https://biocleans.de/ and every page here
+# canonicalises to it.
 User-agent: *
-Allow: /
-
-Sitemap: https://biocleans.de/sitemap-index.xml
+Disallow: /
